@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73247057112",
+    "project_id": "cicd-f6626",
+    "storage_bucket": "cicd-f6626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73247057112:android:834b8455b60dc58ce5e3ad",
+        "android_client_info": {
+          "package_name": "com.ricardonuma.cicd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApxgdZRZUiLhTUx5783q_N1lj_mrLvicU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
