@@ -26,6 +26,7 @@ android {
     buildTypes {
         debug {
             firebaseAppDistribution {
+                appId = "1:73247057112:android:834b8455b60dc58ce5e3ad"
                 groups = "QA"
             }
         }
