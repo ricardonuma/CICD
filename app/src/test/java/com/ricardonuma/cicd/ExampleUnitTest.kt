@@ -30,6 +30,6 @@ class ExampleUnitTest {
 
     @Test
     fun addition_isCorrect5() {
-        assertEquals(6, 3 + 2)
+        assertEquals(6, 4 + 2)
     }
 }
